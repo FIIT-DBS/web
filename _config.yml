@@ -17,8 +17,8 @@ title: DBS
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Kevin Lin
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://fiit-dbs.github.io/web/' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/web' # the subpath of your site, e.g. /blog
+url: 'https://fiit-dbs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
